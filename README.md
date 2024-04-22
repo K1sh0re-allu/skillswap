@@ -2,7 +2,7 @@
 
 Final Project For Tech For Mobile Apps
 
-SkillSwap is a mobile app that allows users to exchange skills with others in their community.
+SkillSwap is a mobile app that allows users to exchange skills with others in their community. This is an app that helps people trade skills with others in their community. It's like swapping favors: you teach someone something you're good at, and they can teach you something in return. Whether it's cooking, coding, or anything in between, SkillSwap makes it easy to learn new things from anyone from anywhere and make new friends along the way.
 
 ## Features
 
@@ -16,7 +16,6 @@ SkillSwap is a mobile app that allows users to exchange skills with others in th
 ![image](https://github.com/K1sh0re-allu/skillswap/assets/167723533/7d090bd5-2ee1-4a6d-98f2-24a0fd0a7ef1)
 - Create Account
 ![image](https://github.com/K1sh0re-allu/skillswap/assets/167723533/ed1f5741-dc18-4e48-b9de-dac812952d30)
-
 
 
 
@@ -45,7 +44,7 @@ SkillSwap is a mobile app that allows users to exchange skills with others in th
 
 - Since I can't upload all my project files and folder to github due to git hub limitation to an upload upto 100 files, I decided to upload the core files and images.
 
- $$ Instructions
+ ## Instructions
 
 - Create an expo app using "npx create-expo-app skilwap" command
 - Download the files in this repository
