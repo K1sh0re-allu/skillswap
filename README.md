@@ -6,6 +6,7 @@ SkillSwap is a mobile app that allows users to exchange skills with others in th
 Features
 
 - User Authentication: Users can create accounts, log in, and log out securely.
+- Currently I did not used a database for storing login credentials, so I added some hardcoded usernames and passwods in an array in userCredentials.js file.
 - Login
  ![image](https://github.com/K1sh0re-allu/skillswap/assets/167723533/d6b77879-fce0-4fe6-92ed-5ffa8bfab697)
 - HomeScreen
