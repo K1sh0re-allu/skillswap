@@ -6,8 +6,16 @@ SkillSwap is a mobile app that allows users to exchange skills with others in th
 Features
 
 - User Authentication: Users can create accounts, log in, and log out securely.
+- Login
  ![image](https://github.com/K1sh0re-allu/skillswap/assets/167723533/d6b77879-fce0-4fe6-92ed-5ffa8bfab697)
+- HomeScreen
  ![image](https://github.com/K1sh0re-allu/skillswap/assets/167723533/0bbc7c9b-28c5-4004-aa56-1a0c0c595917)
+- Logout
+![image](https://github.com/K1sh0re-allu/skillswap/assets/167723533/7d090bd5-2ee1-4a6d-98f2-24a0fd0a7ef1)
+- Create Account
+![image](https://github.com/K1sh0re-allu/skillswap/assets/167723533/ed1f5741-dc18-4e48-b9de-dac812952d30)
+
+
 
 
 - Skill Listing: Users can list the skills they have and are willing to share.
