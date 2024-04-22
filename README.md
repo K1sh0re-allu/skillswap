@@ -1,9 +1,10 @@
-SkillSwap
+# SKILLSWAP
+
 Final Project For Tech For Mobile Apps
 
 SkillSwap is a mobile app that allows users to exchange skills with others in their community.
 
-Features
+## Features
 
 - User Authentication: Users can create accounts, log in, and log out securely.
 - Currently I did not used a database for storing login credentials, so I added some hardcoded usernames and passwods in an array in userCredentials.js file.
@@ -19,13 +20,13 @@ Features
 
 
 
-- Skill Listing: Users can list the skills they have and are willing to share.
+ ## Skill Listing: Users can list the skills they have and are willing to share.
   ![image](https://github.com/K1sh0re-allu/skillswap/assets/167723533/cedf179c-2022-46d6-acd4-30d1407938c8)
 - Individuals can request Help from an experienced developer.
   ![image](https://github.com/K1sh0re-allu/skillswap/assets/167723533/1d545f1b-c08c-4649-a766-ff5290dc2e0e)
 
 
-- Skill Request: Users can request specific skills they need.
+ ## Skill Request: Users can request specific skills they need.
   ![image](https://github.com/K1sh0re-allu/skillswap/assets/167723533/c4123ac5-ecd1-4b35-b0e1-c1c611ac9a30)
 - Developers can respong to the requests and help the person.
   ![image](https://github.com/K1sh0re-allu/skillswap/assets/167723533/02bbd3d4-2dfd-4ab4-8080-95a5e509f85a)
@@ -35,16 +36,16 @@ Features
 - Search Functionality: Users can search for specific skills or users offering those skills. (NOT YET IMPLEMENTED)
 - Chat Functionality: Users and developers can chat in the app itself exchanging information and skills. (NOT YET IMPLEMENTED)
 
-Technologies Used
+## Technologies Used
 
 - React Native
 - React Navigation
 
- Installation
+ ## Installation
 
 - Since I can't upload all my project files and folder to github due to git hub limitation to an upload upto 100 files, I decided to upload the core files and images.
 
- Instructions
+ $$ Instructions
 
 - Create an expo app using "npx create-expo-app skilwap" command
 - Download the files in this repository
@@ -56,4 +57,4 @@ Technologies Used
 - Alternatively you can press "w" to open the web browser where my app is emulated in a localhost web browser.
 ![image](https://github.com/K1sh0re-allu/skillswap/assets/167723533/33b07b8c-db54-402e-bde1-776da682d74f)
 
-Feel free to comment on my project suggesting any improvements
+Feel free to comment on my project suggesting any improvements.
